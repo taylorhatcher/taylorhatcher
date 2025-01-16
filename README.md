@@ -1,4 +1,4 @@
-## Hi there 👋
+Hi, I'm Taylor! I am just a gal who loves science. I work at the University of Washington, where I study how insects are faring in the face of climatic change. 
 
 <!--
 **taylorhatcher/taylorhatcher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
